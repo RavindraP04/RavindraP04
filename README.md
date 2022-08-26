@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ravindra Pandey
+![welcome](./assets/welcome.gif)
+-  👋 Hi, I’m @Ravindra Pandey
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning Web Development(FrontEnd)
 - 💞️ I’m looking to collaborate on a project for frontend development 
