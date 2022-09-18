@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning Web Development(FrontEnd)
 - 💞️ I’m looking to collaborate on a project for frontend development 
-- 📫 How to reach me - https://www.linkedin.com/in/ravindra-pandey-0897551b2/ or ravindrapandey99999@gmail.com
+- 📫 How to reach me - ravindrapandey99999@gmail.com
 ![](https://komarev.com/ghpvc/?username=ravindrap04&style=flat-square)
 
 <!---
