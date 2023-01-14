@@ -1,4 +1,7 @@
-![welcome](./assets/welcome.gif)
+
+![welcome](https://user-images.githubusercontent.com/98400348/212469651-c96d87da-cc73-4349-b551-5d838ea25b58.gif)
+
+
 -  👋 Hi, I’m @Ravindra Pandey
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning Web Development(FrontEnd)
