@@ -9,6 +9,17 @@
 - 📫 How to reach me - [Linkedin](https://www.linkedin.com/in/ravindrap04/) | [twitter](https://twitter.com/ravindraP04)
 ![](https://komarev.com/ghpvc/?username=ravindrap04&style=flat-square)
 
+<table>
+  <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=RavindraP04&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
+            <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RavindraP04&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+  </tr>
+</table>
+
+<div align="center">
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RavindraP04&theme=dark" alt="jigar-sable" /></p> </div>
+ <br> 
+
 <!---
 RavindraP04/RavindraP04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
