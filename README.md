@@ -23,12 +23,12 @@
 
 
 
-<table align="center">
+<!-- <table align="center">
   <tr>
   <td><img src="https://github-readme-stats.vercel.app/api?username=RavindraP04&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
             <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RavindraP04&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
   </tr>
-</table>
+</table> -->
 
 <div align="center">
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RavindraP04&theme=dark" alt="jigar-sable" /></p> </div>
