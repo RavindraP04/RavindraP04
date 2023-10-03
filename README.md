@@ -7,8 +7,6 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/98400348/212469651-c96d87da-cc73-4349-b551-5d838ea25b58.gif"/>
 
-
-
 -  👋 Hi, I’m @Ravindra Pandey
 
 - 👀 I’m interested in Web Technologies
@@ -21,16 +19,11 @@
 [![Linkedin: Ansh](https://img.shields.io/badge/-Ravindra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravindrap04/)](https://www.linkedin.com/in/ravindrap04/)
 ![GitHub followers](https://img.shields.io/github/followers/ravindrap04?label=Follow&style=social)
 <!-- <a href="https://www.linkedin.com/in/ravindrap04/" target="blank"><img align="top" align="center" src="https://user-images.githubusercontent.com/98400348/229513049-8afe732f-3d27-41d1-9cf3-597c829027d5.png" alt="" height="25px" width="25px" /></a>  <a href="https://twitter.com/ravindraP04" rel="some text">‎ ‎ ‎ <img src="https://user-images.githubusercontent.com/98400348/229512241-b4e5139d-766d-4eb3-a5ca-9e6788cf8fd2.png"  height="25px" width="25px" /> -->
-  
-
-
-  
+    
 - ![](https://komarev.com/ghpvc/?username=ravindrap04&style=flat-square)
 
 </br>
 </br>
-
-
 
 <!-- <table align="center">
   <tr>
@@ -41,7 +34,9 @@
 
 <div align="center">
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RavindraP04&theme=dark" alt="jigar-sable" /></p> </div>
- <br> 
+<br>
+
+[![An image of @ravindrap04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ravindrap04)](https://holopin.io/@ravindrap04)
 
 <!---
 RavindraP04/RavindraP04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
