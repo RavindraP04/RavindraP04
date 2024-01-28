@@ -5,17 +5,7 @@
 
 ![gitartwork](gitartwork.svg)
 
-<img align="right" src="https://user-images.githubusercontent.com/98400348/212469651-c96d87da-cc73-4349-b551-5d838ea25b58.gif"/>
-
--  👋 Hi, I’m @Ravindra Pandey
-
-- 👀 I’m interested in Web Technologies
-
-- 🌱 I’m currently learning Web Development(FrontEnd)
-
-- 💞️ I’m looking to collaborate on a project for frontend development 
-
-- 📫 How to reach me - [![Twitter Follow](https://img.shields.io/badge/follow-%40RavindraP04-1DA1F2?logo=twitter&style=social)](https://twitter.com/RavindraP04)
+[![Twitter Follow](https://img.shields.io/badge/follow-%40RavindraP04-1DA1F2?logo=twitter&style=social)](https://twitter.com/RavindraP04)
 [![Linkedin: Ansh](https://img.shields.io/badge/-Ravindra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravindrap04/)](https://www.linkedin.com/in/ravindrap04/)
 ![GitHub followers](https://img.shields.io/github/followers/ravindrap04?label=Follow&style=social)
 <!-- <a href="https://www.linkedin.com/in/ravindrap04/" target="blank"><img align="top" align="center" src="https://user-images.githubusercontent.com/98400348/229513049-8afe732f-3d27-41d1-9cf3-597c829027d5.png" alt="" height="25px" width="25px" /></a>  <a href="https://twitter.com/ravindraP04" rel="some text">‎ ‎ ‎ <img src="https://user-images.githubusercontent.com/98400348/229512241-b4e5139d-766d-4eb3-a5ca-9e6788cf8fd2.png"  height="25px" width="25px" /> -->
